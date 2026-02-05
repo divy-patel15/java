@@ -1,9 +1,8 @@
 class information
-
 {
     int a;
     String name;
-    
+
     information()
     {
         a=10;
@@ -24,4 +23,3 @@ class Student
         s.display();
     }
 }
-    
